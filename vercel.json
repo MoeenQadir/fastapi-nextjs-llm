@@ -1,0 +1,6 @@
+{
+  "framework": "nextjs",
+  "rootDirectory": "myselfx_ai/frontend",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install"
+}
