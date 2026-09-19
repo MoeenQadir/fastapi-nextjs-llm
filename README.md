@@ -707,4 +707,5 @@ MIT License - see [LICENSE](https://github.com/vstorm-co/full-stack-fastapi-next
   Made with ❤️ by <a href="https://github.com/vstorm-co">VStorm</a>
 </p>
 #   f a s t a p i - n e x t j s - l l m  
+ #   f a s t a p i - n e x t j s - l l m  
  
